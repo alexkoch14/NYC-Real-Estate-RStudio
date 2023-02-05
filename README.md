@@ -1,4 +1,4 @@
-# NYC-real-estate
+# NYC Real Estate in R
 Analysis of 2 years'(2019-2020) house sales data provided by New York City (NYC) government and a regression model to predict house price.
 
 # Part 1: Hypothesis Test and Data Exploration
